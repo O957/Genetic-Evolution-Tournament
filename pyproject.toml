@@ -2,11 +2,11 @@
 name = "genetic-evolution-tournament"
 version = "0.0.1"
 description = "The Genetic Evolution Tournament (GET) is a Metaculus human judgment forecasting tournament established to generate forecasts and scenarios pertaining to the use of human genetic and reproductive technologies for treatment and enhancement."
-authors = ["AFg6K7h4fhy2 <127630341+AFg6K7h4fhy2@users.noreply.github.com>"]
+authors = ["O957 <127630341+O957@users.noreply.github.com>"]
 license = "Apache-2.0"
 package-mode = false
 readme = "README.md"
-repository = "https://github.com/AFg6K7h4fhy2/Genetic-Evolution-Tournament"
+repository = "https://github.com/O957/Genetic-Evolution-Tournament"
 keywords = ["genetics", "tournament", "forecasting", "genetic-engineering", "human-enhancement", "human-judgment", "dna-technology"]
 
 [tool.poetry.dependencies]
@@ -19,7 +19,7 @@ matplotlib = "^3.9.2"
 
 [tool.poetry.urls]
 "Repository Issues" = "https://github.com/Genetic-Evolution-Tournament/issues"
-"Author Homepage" = "https://github.com/AFg6K7h4fhy2"
+"Author Homepage" = "https://github.com/O957"
 
 [build-system]
 requires = ["poetry-core"]

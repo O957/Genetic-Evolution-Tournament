@@ -4,13 +4,13 @@ project:
 
 book:
   title: "Genetic Evolution Tournament"
-  page-footer: Copyright, [AFg6K7h4fhy2](https://github.com/AFg6K7h4fhy2)
+  page-footer: Copyright, [O957](https://github.com/O957)
   date: today
   favicon: favicon.jpg
   navbar:
     right:
       - icon: github
-        href: "https://github.com/AFg6K7h4fhy2/Genetic-Evolution-Tournament"
+        href: "https://github.com/O957/Genetic-Evolution-Tournament"
   chapters:
     - index.qmd
     - front_matter/about.qmd

@@ -3,12 +3,12 @@
 ################################################################################
 # The following file contains the pre-commit hooks for this repository, which
 # are likely a modified version of the configuration file from the author's
-# (AFg6K7h4fhy2) repository template.
+# (O957) repository template.
 #
 # Links:
 #
 # Pre-commit: https://pre-commit.com/
-# The author's template: https://github.com/AFg6K7h4fhy2/AFg6K7h4fhy2-Template
+# The author's template: https://github.com/O957/O957-Template
 # Supported hooks: https://github.com/pre-commit/pre-commit-hooks
 # Ruff Linter rules: https://docs.astral.sh/ruff/rules/
 # Ruff formatter overview: https://docs.astral.sh/ruff/formatter/#line-breaks
